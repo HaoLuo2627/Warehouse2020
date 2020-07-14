@@ -1,0 +1,120 @@
+原图：pictures/DSC_0041.jpg        哈希值:000f1f3f3b991f16
+10张最近的图：
+图片名：newPictures/DSC_0041SrcToPNG.png    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/DSC_0041Tensile.jpg    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/DSC_0041TensilePNG.png    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/DSC_0041Watermark.jpg    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/DSC_0041WatermarkTensilePNG.png    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/DSC_0041WatermarkZoomPNG.png    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/DSC_0041Zoom.jpg    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/DSC_0041ZoomPNG.png    哈希值：000f1f3f3b991f16    与原图的汉明距离：0
+图片名：newPictures/IMG_3696SrcToPNG.png    哈希值：b84ebba380a01d87    与原图的汉明距离：27
+图片名：newPictures/IMG_3696Tensile.jpg    哈希值：b84ebba380a01d87    与原图的汉明距离：27
+原图：pictures/DSC_0736.jpg        哈希值:fdfdbd0302048001
+10张最近的图：
+图片名：newPictures/DSC_0736SrcToPNG.png    哈希值：fdfdbd0302048001    与原图的汉明距离：0
+图片名：newPictures/DSC_0736Tensile.jpg    哈希值：fdfdbd0302048001    与原图的汉明距离：0
+图片名：newPictures/DSC_0736TensilePNG.png    哈希值：fdfdbd0302048001    与原图的汉明距离：0
+图片名：newPictures/DSC_0736Watermark.jpg    哈希值：fdfdbd0302048001    与原图的汉明距离：0
+图片名：newPictures/DSC_0736WatermarkTensilePNG.png    哈希值：fdfdbd0302048001    与原图的汉明距离：0
+图片名：newPictures/DSC_0736WatermarkZoomPNG.png    哈希值：fdfdbd0302248001    与原图的汉明距离：1
+图片名：newPictures/DSC_0736ZoomPNG.png    哈希值：fdfdbd0302248001    与原图的汉明距离：1
+图片名：newPictures/DSC_0736Zoom.jpg    哈希值：fdfdbd0102248001    与原图的汉明距离：2
+图片名：newPictures/IMG_4410SrcToPNG.png    哈希值：fffffd8002a04024    与原图的汉明距离：14
+图片名：newPictures/IMG_4410Tensile.jpg    哈希值：fffffd8002a04024    与原图的汉明距离：14
+原图：pictures/IMG_3696.jpg        哈希值:b84ebba380a01d87
+10张最近的图：
+图片名：newPictures/IMG_3696SrcToPNG.png    哈希值：b84ebba380a01d87    与原图的汉明距离：0
+图片名：newPictures/IMG_3696Tensile.jpg    哈希值：b84ebba380a01d87    与原图的汉明距离：0
+图片名：newPictures/IMG_3696TensilePNG.png    哈希值：b84ebba380a01d87    与原图的汉明距离：0
+图片名：newPictures/IMG_3696Watermark.jpg    哈希值：b84ebba380a01d87    与原图的汉明距离：0
+图片名：newPictures/IMG_3696WatermarkTensilePNG.png    哈希值：b84ebba380a01d87    与原图的汉明距离：0
+图片名：newPictures/IMG_3696WatermarkZoomPNG.png    哈希值：a84ebba384a09d87    与原图的汉明距离：3
+图片名：newPictures/IMG_3696ZoomPNG.png    哈希值：a84ebba384a09d87    与原图的汉明距离：3
+图片名：newPictures/IMG_3696Zoom.jpg    哈希值：a84ebba386a09d87    与原图的汉明距离：4
+图片名：newPictures/IMG_4852SrcToPNG.png    哈希值：fffffff381008d00    与原图的汉明距离：21
+图片名：newPictures/IMG_4852Tensile.jpg    哈希值：fffffff381008d00    与原图的汉明距离：21
+原图：pictures/IMG_3697.jpg        哈希值:3680fd6d94dc4180
+10张最近的图：
+图片名：newPictures/IMG_3697SrcToPNG.png    哈希值：3680fd6d94dc4180    与原图的汉明距离：0
+图片名：newPictures/IMG_3697TensilePNG.png    哈希值：3680fd6d94dc4180    与原图的汉明距离：0
+图片名：newPictures/IMG_3697Watermark.jpg    哈希值：3680fd6d94dc4180    与原图的汉明距离：0
+图片名：newPictures/IMG_3697WatermarkTensilePNG.png    哈希值：3680fd6d94dc4180    与原图的汉明距离：0
+图片名：newPictures/IMG_3697Tensile.jpg    哈希值：3780fd6d94dc4180    与原图的汉明距离：1
+图片名：newPictures/IMG_3697WatermarkZoomPNG.png    哈希值：7680fd6d96dc4180    与原图的汉明距离：2
+图片名：newPictures/IMG_3697Zoom.jpg    哈希值：7680fd6d96dc4180    与原图的汉明距离：2
+图片名：newPictures/IMG_3697ZoomPNG.png    哈希值：7680fd6d96dc4180    与原图的汉明距离：2
+图片名：newPictures/IMG_4854SrcToPNG.png    哈希值：ffffefefef850000    与原图的汉明距离：28
+图片名：newPictures/IMG_4854Tensile.jpg    哈希值：ffffefefef850000    与原图的汉明距离：28
+原图：pictures/IMG_3852.jpg        哈希值:588220fff32000ff
+10张最近的图：
+图片名：newPictures/IMG_3852SrcToPNG.png    哈希值：588220fff32000ff    与原图的汉明距离：0
+图片名：newPictures/IMG_3852Tensile.jpg    哈希值：588220fff32000ff    与原图的汉明距离：0
+图片名：newPictures/IMG_3852TensilePNG.png    哈希值：588220fff32000ff    与原图的汉明距离：0
+图片名：newPictures/IMG_3852Watermark.jpg    哈希值：588220fff32000ff    与原图的汉明距离：0
+图片名：newPictures/IMG_3852WatermarkTensilePNG.png    哈希值：588220fff32000ff    与原图的汉明距离：0
+图片名：newPictures/IMG_3852WatermarkZoomPNG.png    哈希值：588220dff32000ff    与原图的汉明距离：1
+图片名：newPictures/IMG_3852Zoom.jpg    哈希值：588220dff32000ff    与原图的汉明距离：1
+图片名：newPictures/IMG_3852ZoomPNG.png    哈希值：588220dff32000ff    与原图的汉明距离：1
+图片名：newPictures/IMG_3696SrcToPNG.png    哈希值：b84ebba380a01d87    与原图的汉明距离：30
+图片名：newPictures/IMG_3696Tensile.jpg    哈希值：b84ebba380a01d87    与原图的汉明距离：30
+原图：pictures/IMG_4410.jpg        哈希值:fffffd8002a04024
+10张最近的图：
+图片名：newPictures/IMG_4410SrcToPNG.png    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/IMG_4410Tensile.jpg    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/IMG_4410TensilePNG.png    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/IMG_4410Watermark.jpg    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/IMG_4410WatermarkTensilePNG.png    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/IMG_4410WatermarkZoomPNG.png    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/IMG_4410Zoom.jpg    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/IMG_4410ZoomPNG.png    哈希值：fffffd8002a04024    与原图的汉明距离：0
+图片名：newPictures/DSC_0736Zoom.jpg    哈希值：fdfdbd0102248001    与原图的汉明距离：12
+图片名：newPictures/DSC_0736WatermarkZoomPNG.png    哈希值：fdfdbd0302248001    与原图的汉明距离：13
+原图：pictures/IMG_4411.jpg        哈希值:fff753010101000b
+10张最近的图：
+图片名：newPictures/IMG_4411SrcToPNG.png    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/IMG_4411Tensile.jpg    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/IMG_4411TensilePNG.png    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/IMG_4411Watermark.jpg    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/IMG_4411WatermarkTensilePNG.png    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/IMG_4411WatermarkZoomPNG.png    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/IMG_4411Zoom.jpg    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/IMG_4411ZoomPNG.png    哈希值：fff753010101000b    与原图的汉明距离：0
+图片名：newPictures/DSC_0736SrcToPNG.png    哈希值：fdfdbd0302048001    与原图的汉明距离：17
+图片名：newPictures/DSC_0736Tensile.jpg    哈希值：fdfdbd0302048001    与原图的汉明距离：17
+原图：pictures/IMG_4415.jpg        哈希值:ffff84041d12e00f
+10张最近的图：
+图片名：newPictures/IMG_4415SrcToPNG.png    哈希值：ffff84041d12e00f    与原图的汉明距离：0
+图片名：newPictures/IMG_4415Tensile.jpg    哈希值：ffff84041d12e00f    与原图的汉明距离：0
+图片名：newPictures/IMG_4415TensilePNG.png    哈希值：ffff84041d12e00f    与原图的汉明距离：0
+图片名：newPictures/IMG_4415Watermark.jpg    哈希值：ffff84041d12e00f    与原图的汉明距离：0
+图片名：newPictures/IMG_4415WatermarkTensilePNG.png    哈希值：ffff84041d12e00f    与原图的汉明距离：0
+图片名：newPictures/IMG_4415WatermarkZoomPNG.png    哈希值：ffff84041413e00f    与原图的汉明距离：3
+图片名：newPictures/IMG_4415Zoom.jpg    哈希值：ffff84041413e00f    与原图的汉明距离：3
+图片名：newPictures/IMG_4415ZoomPNG.png    哈希值：ffff84041413e00f    与原图的汉明距离：3
+图片名：newPictures/IMG_4411SrcToPNG.png    哈希值：fff753010101000b    与原图的汉明距离：19
+图片名：newPictures/IMG_4411Tensile.jpg    哈希值：fff753010101000b    与原图的汉明距离：19
+原图：pictures/IMG_4852.jpg        哈希值:fffffff381008d00
+10张最近的图：
+图片名：newPictures/IMG_4852SrcToPNG.png    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/IMG_4852Tensile.jpg    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/IMG_4852TensilePNG.png    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/IMG_4852Watermark.jpg    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/IMG_4852WatermarkTensilePNG.png    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/IMG_4852WatermarkZoomPNG.png    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/IMG_4852Zoom.jpg    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/IMG_4852ZoomPNG.png    哈希值：fffffff381008d00    与原图的汉明距离：0
+图片名：newPictures/DSC_0736SrcToPNG.png    哈希值：fdfdbd0302048001    与原图的汉明距离：16
+图片名：newPictures/DSC_0736Tensile.jpg    哈希值：fdfdbd0302048001    与原图的汉明距离：16
+原图：pictures/IMG_4854.jpg        哈希值:ffffefefef850000
+10张最近的图：
+图片名：newPictures/IMG_4854SrcToPNG.png    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4854Tensile.jpg    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4854TensilePNG.png    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4854Watermark.jpg    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4854WatermarkTensilePNG.png    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4854WatermarkZoomPNG.png    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4854Zoom.jpg    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4854ZoomPNG.png    哈希值：ffffefefef850000    与原图的汉明距离：0
+图片名：newPictures/IMG_4852SrcToPNG.png    哈希值：fffffff381008d00    与原图的汉明距离：16
+图片名：newPictures/IMG_4852Tensile.jpg    哈希值：fffffff381008d00    与原图的汉明距离：16
